@@ -2695,3 +2695,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-19.34.32:363][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 815 ms)
 [2024.01.17-19.34.32:364][662]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2024.01.17-19.34.32:364][662]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.17-19.35.01:675][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.17-19.35.01:678][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.01.17-19.35.01:678][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/PhysicalMaterial/PM_PhysicalMaterial] ([1] browsable assets)...
+[2024.01.17-19.35.01:678][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/PhysicalMaterial/PM_PhysicalMaterial]
+[2024.01.17-19.35.01:679][196]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/PhysicalMaterial/PM_PhysicalMaterial_Auto1
+[2024.01.17-19.35.01:679][196]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/PM_PhysicalMaterial_Auto18E2512754B4F713F4C01FB970EF047E2.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/Autosaves/Game/FirstPerson/PhysicalMaterial/PM_PhysicalMaterial_Auto1.uasset'
+[2024.01.17-19.35.01:680][196]LogFileHelpers: Auto-saving content packages took 0.002
