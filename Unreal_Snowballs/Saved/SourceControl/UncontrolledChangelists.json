@@ -25,8 +25,10 @@
 				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/EY/EXLD4RPLK3FZNTQ58NLIPI.uasset",
 				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Materials/M_PlayerMaterial.uasset",
-				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
-				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/PhysicalMaterial/PM_PhysicalMaterial.uasset"
+				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/PhysicalMaterial/PM_PhysicalMaterial.uasset",
+				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
 	]
