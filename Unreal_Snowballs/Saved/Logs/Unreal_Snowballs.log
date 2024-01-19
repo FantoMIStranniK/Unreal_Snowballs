@@ -16370,3 +16370,11 @@ Script Stack (3 frames) :
 [2024.01.19-16.10.00:932][148]LogPlayLevel: Display: Destroying online subsystem :Context_176
 [2024.01.19-16.10.00:932][148]LogPlayLevel: Display: Destroying online subsystem :Context_175
 [2024.01.19-16.10.00:932][148]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2024.01.19-16.10.25:658][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.19-16.10.25:662][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2024.01.19-16.10.25:662][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.19-16.10.25:782][246]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.19-16.10.25:782][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.19-16.10.25:803][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2024.01.19-16.10.25:803][246]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacter_Auto446F3C16F4D714B10D9A8CC8EC007A111.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2024.01.19-16.10.25:803][246]LogFileHelpers: Auto-saving content packages took 0.142
