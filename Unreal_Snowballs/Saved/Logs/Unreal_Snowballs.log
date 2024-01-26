@@ -12225,3 +12225,1176 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-18.51.40:997][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 10.3 sec)
 [2024.01.26-18.51.40:998][527]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2024.01.26-18.51.40:998][527]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-18.53.03:560][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.53.03:628][563]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-18.53.03:629][563]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacter5FA65C8F4CE1C984F9D6BA89444A578C.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-18.53.03:637][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 10.3 sec)
+[2024.01.26-18.53.03:638][563]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-18.53.03:638][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-18.53.04:823][699]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.26-18.53.04:823][699]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-18.53.04:823][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.54.02:210][249]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-18.54.02:211][249]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.54.02:211][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.54.21:863][ 86]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.54.21:863][ 86]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.54.21:863][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.54.41:108][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.54.41:175][222]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.54.41:175][222]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_Component347108E449B683364E3B008FE760CA3C.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.54.41:184][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 10.4 sec)
+[2024.01.26-18.54.41:186][222]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.54.41:186][222]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.55.51:297][  1]LogEditorTransaction: Undo Move Node
+[2024.01.26-18.56.59:356][457]BlueprintLog: New page: Compile BP_Weapon_Component
+[2024.01.26-18.56.59:442][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.01.26-18.57.03:079][815]BlueprintLog: New page: Compile BP_Weapon_Component
+[2024.01.26-18.57.03:145][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.26-18.57.04:350][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.57.04:408][918]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.57.04:409][918]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_ComponentFD81AE7C49EC5BF99CCFEAA21A1CDB1E.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.57.04:418][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 10.5 sec)
+[2024.01.26-18.57.04:420][918]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.57.04:420][918]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.57.10:525][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.57.10:584][635]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.57.10:584][635]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_ComponentD2F4DC234E2C367913702CA2F6AA09C7.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.57.10:593][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 10.6 sec)
+[2024.01.26-18.57.10:594][635]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.57.10:594][635]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.57.29:984][813]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.26-18.57.30:131][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.26-18.57.32:285][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.57.32:413][ 22]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-18.57.32:413][ 22]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacter13B04E00426DF23EEA6B6BBA93D0DAFD.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-18.57.32:423][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 10.7 sec)
+[2024.01.26-18.57.32:424][ 22]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-18.57.32:424][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-18.57.33:576][127]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.26-18.57.33:583][127]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.26-18.57.33:584][127]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.26-18.57.33:586][127]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 104 ms)
+[2024.01.26-18.57.33:587][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.26-18.57.33:587][127]PIE: New page: PIE session: FirstPersonMap (26 янв. 2024 г., 22:57:33)
+[2024.01.26-18.57.33:587][127]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.26-18.57.33:594][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007114s)
+[2024.01.26-18.57.33:594][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007156s)
+[2024.01.26-18.57.33:616][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.26-18.57.33:626][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.57.33:626][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.57.33:627][127]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.26-18.57.33:627][127]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-18.57.33:627][127]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-18.57.33:627][127]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-18.57.33:627][127]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-18.57.33:629][127]LogContentBundle: [FirstPersonMap(Dedicated Server)] Creating new contrainer.
+[2024.01.26-18.57.33:629][127]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 288 ms)
+[2024.01.26-18.57.33:629][127]LogPlayLevel: PIE: World Init took: (0.003045s)
+[2024.01.26-18.57.33:629][127]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.26-18.57.33:632][127]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-20.57.33
+[2024.01.26-18.57.33:634][127]LogOnline: OSS: Created online subsystem instance for: :Context_152
+[2024.01.26-18.57.33:635][127]LogWorld: Bringing up level for play took: 0.005485
+[2024.01.26-18.57.33:635][127]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.01.26-18.57.33:635][127]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.01.26-18.57.33:635][127]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.01.26-18.57.33:635][127]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.01.26-18.57.33:635][127]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.57.33:635][127]LogNet: GameNetDriver IpNetDriver_117 IpNetDriver listening on port 17777
+[2024.01.26-18.57.33:636][127]PIE: Server logged in
+[2024.01.26-18.57.33:636][127]PIE: Play in editor total start time 0,052 seconds.
+[2024.01.26-18.57.33:636][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.57.33:636][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.57.33:637][127]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2024.01.26-18.57.33:637][127]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2024.01.26-18.57.33:637][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-18.57.33:637][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-18.57.33:637][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-18.57.33:637][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-18.57.33:637][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.26-18.57.33:637][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-18.57.33:637][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.26-18.57.33:637][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-18.57.33:637][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-18.57.33:637][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-18.57.33:637][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-18.57.33:639][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-18.57.33:700][127]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2024.01.26-18.57.33:700][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-18.57.33:700][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-18.57.33:700][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-18.57.33:701][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2024.01.26-18.57.33:701][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2024.01.26-18.57.33:703][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2024.01.26-18.57.33:703][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2024.01.26-18.57.33:703][127]LogInit: FAudioDevice initialized with ID 80.
+[2024.01.26-18.57.33:703][127]LogAudio: Display: Audio Device (ID: 80) registered with world 'Untitled'.
+[2024.01.26-18.57.33:703][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2024.01.26-18.57.33:739][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-18.57.33:739][127]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.26-18.57.33:739][127]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.01.26-18.57.33:739][127]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.01.26-18.57.33:739][127]LogNet: IpConnection_156 setting maximum channels to: 32767
+[2024.01.26-18.57.33:739][127]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.57.33:740][127]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 2
+[2024.01.26-18.57.33:740][127]LogNet: Game client on port 17777, rate 100000
+[2024.01.26-18.57.33:744][127]PIE: Client logged in
+[2024.01.26-18.57.33:747][127]PIE: Play in editor total start time 0,163 seconds.
+[2024.01.26-18.57.33:747][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.57.33:747][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.57.33:748][127]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2024.01.26-18.57.33:748][127]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2024.01.26-18.57.33:748][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-18.57.33:748][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-18.57.33:748][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-18.57.33:748][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-18.57.33:748][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.26-18.57.33:748][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-18.57.33:748][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.26-18.57.33:748][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-18.57.33:749][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-18.57.33:749][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-18.57.33:749][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-18.57.33:751][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-18.57.33:801][127]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2024.01.26-18.57.33:802][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-18.57.33:802][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-18.57.33:802][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-18.57.33:803][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2024.01.26-18.57.33:803][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2024.01.26-18.57.33:805][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2024.01.26-18.57.33:805][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2024.01.26-18.57.33:805][127]LogInit: FAudioDevice initialized with ID 81.
+[2024.01.26-18.57.33:805][127]LogAudio: Display: Audio Device (ID: 81) registered with world 'Untitled'.
+[2024.01.26-18.57.33:805][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2024.01.26-18.57.33:836][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-18.57.33:837][127]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.26-18.57.33:837][127]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.01.26-18.57.33:837][127]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.01.26-18.57.33:837][127]LogNet: IpConnection_157 setting maximum channels to: 32767
+[2024.01.26-18.57.33:837][127]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.57.33:838][127]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 3
+[2024.01.26-18.57.33:838][127]LogNet: Game client on port 17777, rate 100000
+[2024.01.26-18.57.33:841][127]PIE: Client logged in
+[2024.01.26-18.57.33:845][127]PIE: Play in editor total start time 0,261 seconds.
+[2024.01.26-18.57.33:863][127]LogViewport: Scene viewport resized to 1914x480, mode Windowed.
+[2024.01.26-18.57.33:940][127]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.01.26-18.57.34:781][218]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60190
+[2024.01.26-18.57.34:781][218]LogHandshake: SendConnectChallenge. Timestamp: 1.213198, Cookie: 017250131222216080087058114147218011022249207143163160232076
+[2024.01.26-18.57.34:808][221]LogHandshake: Cached server SessionID: 0
+[2024.01.26-18.57.34:808][221]LogHandshake: SendChallengeResponse. Timestamp: 1.213198, Cookie: 017250131222216080087058114147218011022249207143163160232076
+[2024.01.26-18.57.34:816][222]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60190
+[2024.01.26-18.57.34:816][222]LogHandshake: SendChallengeAck. InCookie: 017250131222216080087058114147218011022249207143163160232076
+[2024.01.26-18.57.34:816][222]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60190
+[2024.01.26-18.57.34:816][222]LogNet: IpConnection_158 setting maximum channels to: 32767
+[2024.01.26-18.57.34:816][222]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.57.34:817][222]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 01/26/24 20:57:34, [UNetConnection] RemoteAddr: 127.0.0.1:60190, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.57.34:817][222]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60190, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.57.34:843][225]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_156, Driver: PendingNetDriver IpNetDriver_118, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.57.34:852][226]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.01.26-18.57.34:852][226]LogNet: Remote platform little endian=1
+[2024.01.26-18.57.34:852][226]LogNet: This platform little endian=1
+[2024.01.26-18.57.34:852][226]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60191
+[2024.01.26-18.57.34:852][226]LogHandshake: SendConnectChallenge. Timestamp: 1.284225, Cookie: 059217222099210036011203133235205051030035216033177026151178
+[2024.01.26-18.57.34:871][228]LogOnline: OSS: Created online subsystem instance for: :Context_153
+[2024.01.26-18.57.34:871][228]LogHandshake: Cached server SessionID: 0
+[2024.01.26-18.57.34:871][228]LogHandshake: SendChallengeResponse. Timestamp: 1.284225, Cookie: 059217222099210036011203133235205051030035216033177026151178
+[2024.01.26-18.57.34:879][229]LogNet: Login request: ?Name=DESKTOP-LD7AU0J-0C9D13CE428536AE022C02A122440D93 userId: NULL:DESKTOP-LD7AU0J-0C9D13CE428536AE022C02A122440D93 platform: NULL
+[2024.01.26-18.57.34:880][229]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60191
+[2024.01.26-18.57.34:880][229]LogHandshake: SendChallengeAck. InCookie: 059217222099210036011203133235205051030035216033177026151178
+[2024.01.26-18.57.34:880][229]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60191
+[2024.01.26-18.57.34:880][229]LogNet: IpConnection_159 setting maximum channels to: 32767
+[2024.01.26-18.57.34:880][229]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.57.34:880][229]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 01/26/24 20:57:34, [UNetConnection] RemoteAddr: 127.0.0.1:60191, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.57.34:880][229]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60191, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.57.34:906][232]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C)
+[2024.01.26-18.57.34:906][232]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2024.01.26-18.57.34:906][232]LogWorld: BeginTearingDown for /Temp/Untitled_79
+[2024.01.26-18.57.34:906][232]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-18.57.34:906][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.57.34:924][232]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-18.57.34:926][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.26-18.57.34:937][232]LogAudio: Display: Audio Device (ID: 80) registered with world 'FirstPersonMap'.
+[2024.01.26-18.57.34:937][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.57.34:937][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.57.34:938][232]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-18.57.34:938][232]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-18.57.34:938][232]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-18.57.34:938][232]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-18.57.34:940][232]LogContentBundle: [FirstPersonMap(Client 1)] Creating new contrainer.
+[2024.01.26-18.57.34:940][232]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 290 ms)
+[2024.01.26-18.57.34:940][232]LogPlayLevel: PIE: World Init took: (0.003109s)
+[2024.01.26-18.57.34:943][232]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-20.57.34
+[2024.01.26-18.57.34:943][232]LogWorld: Bringing up level for play took: 0.002550
+[2024.01.26-18.57.34:943][232]LogLoad: Took 0.036953 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.01.26-18.57.34:944][232]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_157, Driver: PendingNetDriver IpNetDriver_119, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.57.35:077][233]LogNet: Client netspeed is 100000
+[2024.01.26-18.57.35:077][233]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-LD7AU0J-0C9D13CE428536AE022C02A122440D93?SplitscreenCount=1
+[2024.01.26-18.57.35:081][233]LogNet: Join succeeded: DESKTOP-LD7AU0J-0C9D
+[2024.01.26-18.57.35:081][233]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.01.26-18.57.35:081][233]LogNet: Remote platform little endian=1
+[2024.01.26-18.57.35:081][233]LogNet: This platform little endian=1
+[2024.01.26-18.57.35:088][233]LogOnline: OSS: Created online subsystem instance for: :Context_154
+[2024.01.26-18.57.35:113][234]LogNet: Login request: ?Name=DESKTOP-LD7AU0J-C3219120492436B0327657BBC3BE72C4 userId: NULL:DESKTOP-LD7AU0J-C3219120492436B0327657BBC3BE72C4 platform: NULL
+[2024.01.26-18.57.35:118][234]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C)
+[2024.01.26-18.57.35:118][234]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2024.01.26-18.57.35:118][234]LogWorld: BeginTearingDown for /Temp/Untitled_80
+[2024.01.26-18.57.35:118][234]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-18.57.35:118][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.57.35:136][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-18.57.35:139][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.26-18.57.35:149][234]LogAudio: Display: Audio Device (ID: 81) registered with world 'FirstPersonMap'.
+[2024.01.26-18.57.35:149][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.57.35:149][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.57.35:150][234]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-18.57.35:150][234]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-18.57.35:150][234]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-18.57.35:150][234]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-18.57.35:152][234]LogContentBundle: [FirstPersonMap(Client 2)] Creating new contrainer.
+[2024.01.26-18.57.35:152][234]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 291 ms)
+[2024.01.26-18.57.35:152][234]LogPlayLevel: PIE: World Init took: (0.002863s)
+[2024.01.26-18.57.35:154][234]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_2_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-20.57.35
+[2024.01.26-18.57.35:154][234]LogWorld: Bringing up level for play took: 0.002264
+[2024.01.26-18.57.35:154][234]LogLoad: Took 0.036204 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.01.26-18.57.35:329][235]LogNet: Client netspeed is 100000
+[2024.01.26-18.57.35:329][235]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-LD7AU0J-C3219120492436B0327657BBC3BE72C4?SplitscreenCount=1
+[2024.01.26-18.57.35:332][235]LogNet: Join succeeded: DESKTOP-LD7AU0J-C321
+[2024.01.26-18.57.35:337][235]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_FirstPersonCharacter_C_1. Function AddName will not be processed.
+[2024.01.26-18.57.35:386][237]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_FirstPersonCharacter_C_0. Function AddName will not be processed.
+[2024.01.26-18.57.39:892][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-18.57.39:892][504]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_2_FirstPersonMap
+[2024.01.26-18.57.39:893][504]LogSlate: Window 'Unreal_Snowballs Preview [NetMode: Client 2] Fixed 29fps (64-bit/PC D3D SM6)' being destroyed
+[2024.01.26-18.57.39:897][504]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-18.57.39:898][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.57.39:898][504]LogContentBundle: [FirstPersonMap(Client 2)] Deleting container.
+[2024.01.26-18.57.39:898][504]LogNet: World NetDriver shutdown IpNetDriver_119 [GameNetDriver]
+[2024.01.26-18.57.39:898][504]LogNet: DestroyNamedNetDriver IpNetDriver_119 [GameNetDriver]
+[2024.01.26-18.57.39:898][504]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_157, Driver: GameNetDriver IpNetDriver_119, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-C3219120492436B0327657BBC3BE72C4, Channels: 30, Time: 2024.01.26-18.57.39
+[2024.01.26-18.57.39:898][504]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_157, Driver: GameNetDriver IpNetDriver_119, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-C3219120492436B0327657BBC3BE72C4
+[2024.01.26-18.57.39:898][504]LogExit: GameNetDriver IpNetDriver_119 shut down
+[2024.01.26-18.57.39:900][504]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap
+[2024.01.26-18.57.39:900][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-18.57.39:900][504]LogSlate: Window 'Unreal_Snowballs Preview [NetMode: Client 1] Fixed 29fps (64-bit/PC D3D SM6)' being destroyed
+[2024.01.26-18.57.39:906][504]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-18.57.39:906][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.57.39:906][504]LogContentBundle: [FirstPersonMap(Client 1)] Deleting container.
+[2024.01.26-18.57.39:907][504]LogNet: World NetDriver shutdown IpNetDriver_118 [GameNetDriver]
+[2024.01.26-18.57.39:907][504]LogNet: DestroyNamedNetDriver IpNetDriver_118 [GameNetDriver]
+[2024.01.26-18.57.39:907][504]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_156, Driver: GameNetDriver IpNetDriver_118, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-0C9D13CE428536AE022C02A122440D93, Channels: 30, Time: 2024.01.26-18.57.39
+[2024.01.26-18.57.39:907][504]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_156, Driver: GameNetDriver IpNetDriver_118, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-0C9D13CE428536AE022C02A122440D93
+[2024.01.26-18.57.39:907][504]LogExit: GameNetDriver IpNetDriver_118 shut down
+[2024.01.26-18.57.39:909][504]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.26-18.57.39:909][504]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-18.57.39:910][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.57.39:910][504]LogContentBundle: [FirstPersonMap(Dedicated Server)] Deleting container.
+[2024.01.26-18.57.39:910][504]LogNet: World NetDriver shutdown IpNetDriver_117 [GameNetDriver]
+[2024.01.26-18.57.39:910][504]LogNet: DestroyNamedNetDriver IpNetDriver_117 [GameNetDriver]
+[2024.01.26-18.57.39:910][504]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-18.57.39:910][504]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.01.26-18.57.39:910][504]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-18.57.39:910][504]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.01.26-18.57.39:910][504]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60191, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-C3219120492436B0327657BBC3BE72C4
+[2024.01.26-18.57.39:910][504]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60191, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-C3219120492436B0327657BBC3BE72C4, Channels: 30, Time: 2024.01.26-18.57.39
+[2024.01.26-18.57.39:910][504]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-18.57.39:910][504]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.01.26-18.57.39:910][504]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60191, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-C3219120492436B0327657BBC3BE72C4
+[2024.01.26-18.57.39:911][504]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60190, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-0C9D13CE428536AE022C02A122440D93
+[2024.01.26-18.57.39:911][504]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60190, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-0C9D13CE428536AE022C02A122440D93, Channels: 30, Time: 2024.01.26-18.57.39
+[2024.01.26-18.57.39:911][504]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-18.57.39:911][504]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.01.26-18.57.39:911][504]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60190, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-0C9D13CE428536AE022C02A122440D93
+[2024.01.26-18.57.39:911][504]LogExit: GameNetDriver IpNetDriver_117 shut down
+[2024.01.26-18.57.39:913][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.26-18.57.39:920][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.57.39:946][504]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2024.01.26-18.57.39:946][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2024.01.26-18.57.39:948][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2024.01.26-18.57.39:954][504]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2024.01.26-18.57.39:954][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2024.01.26-18.57.39:956][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2024.01.26-18.57.39:969][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.26-18.57.40:060][505]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2024.01.26-18.57.40:060][505]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2024.01.26-18.57.40:060][505]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2024.01.26-18.57.41:959][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.57.42:025][712]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-18.57.42:026][712]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacter4A76CC5646C7E69E67E275887CEDB692.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-18.57.42:035][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 10.8 sec)
+[2024.01.26-18.57.42:037][712]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-18.57.42:037][712]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-18.58.22:260][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.58.22:319][229]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.58.22:320][229]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_ComponentAE774ABF4127454648F71FB1D696FEB4.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.58.22:329][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 10.8 sec)
+[2024.01.26-18.58.22:331][229]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.58.22:331][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.58.41:203][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.58.41:338][261]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-18.58.41:338][261]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacter40BEBEF441B4E6C324E7159080D655E4.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-18.58.41:348][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 11.0 sec)
+[2024.01.26-18.58.41:350][261]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-18.58.41:350][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-18.58.52:731][516]BlueprintLog: New page: Compile BP_Weapon_Component
+[2024.01.26-18.58.52:852][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.26-18.58.53:315][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.58.53:387][538]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.58.53:387][538]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_Component21E52519450E5E20196BB587B0250E08.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.58.53:397][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 11.1 sec)
+[2024.01.26-18.58.53:399][538]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.58.53:399][538]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.59.18:105][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.59.18:162][237]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.59.18:163][237]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_Component3E33D3E841CAC3EBC4B6D88608077933.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.59.18:172][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 11.1 sec)
+[2024.01.26-18.59.18:173][237]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.59.18:173][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.59.34:725][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.59.34:787][ 32]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.59.34:788][ 32]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_Component29D6515D4831D9C65FC52C842FFA6673.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.59.34:796][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 11.2 sec)
+[2024.01.26-18.59.34:797][ 32]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.59.34:798][ 32]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.59.44:393][108]LogEditorTransaction: Undo Move Node
+[2024.01.26-18.59.47:066][304]BlueprintLog: New page: Compile BP_Weapon_Component
+[2024.01.26-18.59.47:180][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.26-18.59.48:620][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.59.48:688][444]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.59.48:689][444]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_Component1E5625AC4916E9720896A681710BD03B.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.59.48:697][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 11.3 sec)
+[2024.01.26-18.59.48:699][444]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.59.48:699][444]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.59.49:295][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.59.49:356][515]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-18.59.49:356][515]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_Component0DCCEFC64064AC47E9D6EE910B5046EA.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-18.59.49:365][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 11.3 sec)
+[2024.01.26-18.59.49:366][515]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-18.59.49:366][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-18.59.52:178][804]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.26-18.59.52:322][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.26-18.59.52:756][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-18.59.52:869][813]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-18.59.52:869][813]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacterAE975120476A616BC631D39581094982.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-18.59.52:879][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 11.5 sec)
+[2024.01.26-18.59.52:880][813]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-18.59.52:880][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-18.59.54:031][937]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.26-18.59.54:038][937]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.26-18.59.54:038][937]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.26-18.59.54:041][937]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 106 ms)
+[2024.01.26-18.59.54:041][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.26-18.59.54:041][937]PIE: New page: PIE session: FirstPersonMap (26 янв. 2024 г., 22:59:54)
+[2024.01.26-18.59.54:041][937]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.26-18.59.54:047][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006235s)
+[2024.01.26-18.59.54:047][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006273s)
+[2024.01.26-18.59.54:068][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.26-18.59.54:077][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.59.54:077][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.59.54:077][937]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.26-18.59.54:078][937]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-18.59.54:078][937]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-18.59.54:078][937]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-18.59.54:078][937]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-18.59.54:080][937]LogContentBundle: [FirstPersonMap(Dedicated Server)] Creating new contrainer.
+[2024.01.26-18.59.54:080][937]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 293 ms)
+[2024.01.26-18.59.54:080][937]LogPlayLevel: PIE: World Init took: (0.002960s)
+[2024.01.26-18.59.54:080][937]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.26-18.59.54:083][937]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-20.59.54
+[2024.01.26-18.59.54:085][937]LogOnline: OSS: Created online subsystem instance for: :Context_155
+[2024.01.26-18.59.54:085][937]LogWorld: Bringing up level for play took: 0.005309
+[2024.01.26-18.59.54:086][937]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.01.26-18.59.54:086][937]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.01.26-18.59.54:086][937]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.01.26-18.59.54:086][937]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.01.26-18.59.54:086][937]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.59.54:086][937]LogNet: GameNetDriver IpNetDriver_120 IpNetDriver listening on port 17777
+[2024.01.26-18.59.54:086][937]PIE: Server logged in
+[2024.01.26-18.59.54:086][937]PIE: Play in editor total start time 0,047 seconds.
+[2024.01.26-18.59.54:086][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.59.54:086][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.59.54:087][937]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2024.01.26-18.59.54:087][937]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2024.01.26-18.59.54:087][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-18.59.54:087][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-18.59.54:087][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-18.59.54:087][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-18.59.54:087][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.26-18.59.54:087][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-18.59.54:087][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.26-18.59.54:087][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-18.59.54:088][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-18.59.54:088][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-18.59.54:088][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-18.59.54:089][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-18.59.54:140][937]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2024.01.26-18.59.54:141][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-18.59.54:141][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-18.59.54:141][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-18.59.54:142][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2024.01.26-18.59.54:142][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2024.01.26-18.59.54:143][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2024.01.26-18.59.54:143][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2024.01.26-18.59.54:144][937]LogInit: FAudioDevice initialized with ID 82.
+[2024.01.26-18.59.54:144][937]LogAudio: Display: Audio Device (ID: 82) registered with world 'Untitled'.
+[2024.01.26-18.59.54:144][937]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2024.01.26-18.59.54:176][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-18.59.54:176][937]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.26-18.59.54:177][937]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.01.26-18.59.54:177][937]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.01.26-18.59.54:177][937]LogNet: IpConnection_160 setting maximum channels to: 32767
+[2024.01.26-18.59.54:177][937]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.59.54:178][937]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 4
+[2024.01.26-18.59.54:178][937]LogNet: Game client on port 17777, rate 100000
+[2024.01.26-18.59.54:181][937]PIE: Client logged in
+[2024.01.26-18.59.54:184][937]PIE: Play in editor total start time 0,146 seconds.
+[2024.01.26-18.59.54:184][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.59.54:185][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.59.54:185][937]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2024.01.26-18.59.54:185][937]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2024.01.26-18.59.54:185][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-18.59.54:185][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-18.59.54:185][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-18.59.54:185][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-18.59.54:185][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.26-18.59.54:185][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-18.59.54:185][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.26-18.59.54:185][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-18.59.54:186][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-18.59.54:186][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-18.59.54:186][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-18.59.54:188][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-18.59.54:236][937]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2024.01.26-18.59.54:236][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-18.59.54:236][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-18.59.54:236][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-18.59.54:238][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2024.01.26-18.59.54:238][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2024.01.26-18.59.54:240][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2024.01.26-18.59.54:240][937]LogInit: FAudioDevice initialized with ID 83.
+[2024.01.26-18.59.54:240][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2024.01.26-18.59.54:240][937]LogAudio: Display: Audio Device (ID: 83) registered with world 'Untitled'.
+[2024.01.26-18.59.54:240][937]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2024.01.26-18.59.54:275][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-18.59.54:275][937]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.26-18.59.54:275][937]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.01.26-18.59.54:275][937]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.01.26-18.59.54:275][937]LogNet: IpConnection_161 setting maximum channels to: 32767
+[2024.01.26-18.59.54:276][937]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.59.54:277][937]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 5
+[2024.01.26-18.59.54:277][937]LogNet: Game client on port 17777, rate 100000
+[2024.01.26-18.59.54:280][937]PIE: Client logged in
+[2024.01.26-18.59.54:283][937]PIE: Play in editor total start time 0,244 seconds.
+[2024.01.26-18.59.54:315][937]LogViewport: Scene viewport resized to 1914x480, mode Windowed.
+[2024.01.26-18.59.54:379][937]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.01.26-18.59.55:202][ 29]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57414
+[2024.01.26-18.59.55:202][ 29]LogHandshake: SendConnectChallenge. Timestamp: 1.179782, Cookie: 029104142249023230004176215201028114081089104013095035069078
+[2024.01.26-18.59.55:227][ 32]LogHandshake: Cached server SessionID: 0
+[2024.01.26-18.59.55:227][ 32]LogHandshake: SendChallengeResponse. Timestamp: 1.179782, Cookie: 029104142249023230004176215201028114081089104013095035069078
+[2024.01.26-18.59.55:236][ 33]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57414
+[2024.01.26-18.59.55:236][ 33]LogHandshake: SendChallengeAck. InCookie: 029104142249023230004176215201028114081089104013095035069078
+[2024.01.26-18.59.55:236][ 33]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57414
+[2024.01.26-18.59.55:236][ 33]LogNet: IpConnection_162 setting maximum channels to: 32767
+[2024.01.26-18.59.55:236][ 33]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.59.55:236][ 33]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 01/26/24 20:59:55, [UNetConnection] RemoteAddr: 127.0.0.1:57414, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.59.55:236][ 33]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57414, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.59.55:263][ 36]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_160, Driver: PendingNetDriver IpNetDriver_121, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.59.55:271][ 37]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.01.26-18.59.55:271][ 37]LogNet: Remote platform little endian=1
+[2024.01.26-18.59.55:271][ 37]LogNet: This platform little endian=1
+[2024.01.26-18.59.55:300][ 40]LogOnline: OSS: Created online subsystem instance for: :Context_156
+[2024.01.26-18.59.55:308][ 41]LogNet: Login request: ?Name=DESKTOP-LD7AU0J-63F404BB4E390FDFDB4B25B3522B6446 userId: NULL:DESKTOP-LD7AU0J-63F404BB4E390FDFDB4B25B3522B6446 platform: NULL
+[2024.01.26-18.59.55:308][ 41]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57415
+[2024.01.26-18.59.55:308][ 41]LogHandshake: SendConnectChallenge. Timestamp: 1.285347, Cookie: 001223059116185144000114177238184231106117178029044245146064
+[2024.01.26-18.59.55:325][ 43]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C)
+[2024.01.26-18.59.55:325][ 43]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2024.01.26-18.59.55:325][ 43]LogWorld: BeginTearingDown for /Temp/Untitled_81
+[2024.01.26-18.59.55:325][ 43]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-18.59.55:325][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.59.55:345][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-18.59.55:347][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.26-18.59.55:357][ 43]LogAudio: Display: Audio Device (ID: 82) registered with world 'FirstPersonMap'.
+[2024.01.26-18.59.55:357][ 43]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.59.55:357][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.59.55:358][ 43]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-18.59.55:358][ 43]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-18.59.55:358][ 43]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-18.59.55:358][ 43]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-18.59.55:359][ 43]LogContentBundle: [FirstPersonMap(Client 1)] Creating new contrainer.
+[2024.01.26-18.59.55:359][ 43]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 295 ms)
+[2024.01.26-18.59.55:359][ 43]LogPlayLevel: PIE: World Init took: (0.002802s)
+[2024.01.26-18.59.55:362][ 43]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-20.59.55
+[2024.01.26-18.59.55:362][ 43]LogWorld: Bringing up level for play took: 0.002118
+[2024.01.26-18.59.55:362][ 43]LogLoad: Took 0.037112 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.01.26-18.59.55:363][ 43]LogHandshake: Cached server SessionID: 0
+[2024.01.26-18.59.55:363][ 43]LogHandshake: SendChallengeResponse. Timestamp: 1.285347, Cookie: 001223059116185144000114177238184231106117178029044245146064
+[2024.01.26-18.59.55:390][ 44]LogNet: Client netspeed is 100000
+[2024.01.26-18.59.55:390][ 44]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-LD7AU0J-63F404BB4E390FDFDB4B25B3522B6446?SplitscreenCount=1
+[2024.01.26-18.59.55:393][ 44]LogNet: Join succeeded: DESKTOP-LD7AU0J-63F4
+[2024.01.26-18.59.55:393][ 44]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57415
+[2024.01.26-18.59.55:393][ 44]LogHandshake: SendChallengeAck. InCookie: 001223059116185144000114177238184231106117178029044245146064
+[2024.01.26-18.59.55:393][ 44]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57415
+[2024.01.26-18.59.55:393][ 44]LogNet: IpConnection_163 setting maximum channels to: 32767
+[2024.01.26-18.59.55:393][ 44]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-18.59.55:394][ 44]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 01/26/24 20:59:55, [UNetConnection] RemoteAddr: 127.0.0.1:57415, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.59.55:394][ 44]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57415, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.59.55:398][ 44]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_161, Driver: PendingNetDriver IpNetDriver_122, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-18.59.55:485][ 45]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.01.26-18.59.55:485][ 45]LogNet: Remote platform little endian=1
+[2024.01.26-18.59.55:485][ 45]LogNet: This platform little endian=1
+[2024.01.26-18.59.55:492][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2024.01.26-18.59.55:511][ 46]LogNet: Login request: ?Name=DESKTOP-LD7AU0J-8A0389774E991ADBE552F69C0D7D8CD2 userId: NULL:DESKTOP-LD7AU0J-8A0389774E991ADBE552F69C0D7D8CD2 platform: NULL
+[2024.01.26-18.59.55:516][ 46]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C)
+[2024.01.26-18.59.55:516][ 46]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2024.01.26-18.59.55:516][ 46]LogWorld: BeginTearingDown for /Temp/Untitled_82
+[2024.01.26-18.59.55:516][ 46]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-18.59.55:516][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-18.59.55:535][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-18.59.55:537][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.26-18.59.55:546][ 46]LogAudio: Display: Audio Device (ID: 83) registered with world 'FirstPersonMap'.
+[2024.01.26-18.59.55:546][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-18.59.55:547][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-18.59.55:548][ 46]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-18.59.55:548][ 46]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-18.59.55:548][ 46]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-18.59.55:548][ 46]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-18.59.55:549][ 46]LogContentBundle: [FirstPersonMap(Client 2)] Creating new contrainer.
+[2024.01.26-18.59.55:549][ 46]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 297 ms)
+[2024.01.26-18.59.55:549][ 46]LogPlayLevel: PIE: World Init took: (0.003075s)
+[2024.01.26-18.59.55:552][ 46]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_2_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-20.59.55
+[2024.01.26-18.59.55:552][ 46]LogWorld: Bringing up level for play took: 0.002289
+[2024.01.26-18.59.55:552][ 46]LogLoad: Took 0.035976 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.01.26-18.59.55:615][ 47]LogNet: Client netspeed is 100000
+[2024.01.26-18.59.55:615][ 47]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-LD7AU0J-8A0389774E991ADBE552F69C0D7D8CD2?SplitscreenCount=1
+[2024.01.26-18.59.55:618][ 47]LogNet: Join succeeded: DESKTOP-LD7AU0J-8A03
+[2024.01.26-18.59.55:622][ 47]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_FirstPersonCharacter_C_1. Function AddName will not be processed.
+[2024.01.26-18.59.55:701][ 50]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_FirstPersonCharacter_C_1. Function AddName will not be processed.
+[2024.01.26-19.00.00:865][374]LogViewport: Scene viewport resized to 1920x1006, mode Windowed.
+[2024.01.26-19.00.01:572][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.00.01:572][404]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_2_FirstPersonMap
+[2024.01.26-19.00.01:573][404]LogSlate: Window 'Unreal_Snowballs Preview [NetMode: Client 2] Fixed 29fps (64-bit/PC D3D SM6)' being destroyed
+[2024.01.26-19.00.01:577][404]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.00.01:578][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.00.01:578][404]LogContentBundle: [FirstPersonMap(Client 2)] Deleting container.
+[2024.01.26-19.00.01:578][404]LogNet: World NetDriver shutdown IpNetDriver_122 [GameNetDriver]
+[2024.01.26-19.00.01:578][404]LogNet: DestroyNamedNetDriver IpNetDriver_122 [GameNetDriver]
+[2024.01.26-19.00.01:578][404]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_161, Driver: GameNetDriver IpNetDriver_122, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-8A0389774E991ADBE552F69C0D7D8CD2, Channels: 29, Time: 2024.01.26-19.00.01
+[2024.01.26-19.00.01:579][404]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_161, Driver: GameNetDriver IpNetDriver_122, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-8A0389774E991ADBE552F69C0D7D8CD2
+[2024.01.26-19.00.01:579][404]LogExit: GameNetDriver IpNetDriver_122 shut down
+[2024.01.26-19.00.01:580][404]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap
+[2024.01.26-19.00.01:580][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.00.01:580][404]LogSlate: Window 'Unreal_Snowballs Preview [NetMode: Client 1] Fixed 29fps (64-bit/PC D3D SM6)' being destroyed
+[2024.01.26-19.00.01:587][404]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.00.01:588][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.00.01:588][404]LogContentBundle: [FirstPersonMap(Client 1)] Deleting container.
+[2024.01.26-19.00.01:588][404]LogNet: World NetDriver shutdown IpNetDriver_121 [GameNetDriver]
+[2024.01.26-19.00.01:588][404]LogNet: DestroyNamedNetDriver IpNetDriver_121 [GameNetDriver]
+[2024.01.26-19.00.01:588][404]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_160, Driver: GameNetDriver IpNetDriver_121, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-63F404BB4E390FDFDB4B25B3522B6446, Channels: 29, Time: 2024.01.26-19.00.01
+[2024.01.26-19.00.01:588][404]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_160, Driver: GameNetDriver IpNetDriver_121, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-63F404BB4E390FDFDB4B25B3522B6446
+[2024.01.26-19.00.01:589][404]LogExit: GameNetDriver IpNetDriver_121 shut down
+[2024.01.26-19.00.01:590][404]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.26-19.00.01:591][404]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.00.01:591][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.00.01:591][404]LogContentBundle: [FirstPersonMap(Dedicated Server)] Deleting container.
+[2024.01.26-19.00.01:591][404]LogNet: World NetDriver shutdown IpNetDriver_120 [GameNetDriver]
+[2024.01.26-19.00.01:591][404]LogNet: DestroyNamedNetDriver IpNetDriver_120 [GameNetDriver]
+[2024.01.26-19.00.01:592][404]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.00.01:592][404]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.01.26-19.00.01:592][404]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.00.01:592][404]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.01.26-19.00.01:592][404]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57415, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-8A0389774E991ADBE552F69C0D7D8CD2
+[2024.01.26-19.00.01:592][404]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57415, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-8A0389774E991ADBE552F69C0D7D8CD2, Channels: 29, Time: 2024.01.26-19.00.01
+[2024.01.26-19.00.01:592][404]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.00.01:592][404]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.01.26-19.00.01:592][404]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57415, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-8A0389774E991ADBE552F69C0D7D8CD2
+[2024.01.26-19.00.01:592][404]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57414, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-63F404BB4E390FDFDB4B25B3522B6446
+[2024.01.26-19.00.01:592][404]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57414, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-63F404BB4E390FDFDB4B25B3522B6446, Channels: 29, Time: 2024.01.26-19.00.01
+[2024.01.26-19.00.01:592][404]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.00.01:592][404]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.01.26-19.00.01:592][404]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57414, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-63F404BB4E390FDFDB4B25B3522B6446
+[2024.01.26-19.00.01:592][404]LogExit: GameNetDriver IpNetDriver_120 shut down
+[2024.01.26-19.00.01:594][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.26-19.00.01:601][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.00.01:627][404]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2024.01.26-19.00.01:627][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2024.01.26-19.00.01:629][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2024.01.26-19.00.01:635][404]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2024.01.26-19.00.01:636][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2024.01.26-19.00.01:637][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2024.01.26-19.00.01:651][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.01.26-19.00.01:744][405]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2024.01.26-19.00.01:744][405]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2024.01.26-19.00.01:744][405]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2024.01.26-19.00.11:922][507]LogEditorTransaction: Undo Move Node
+[2024.01.26-19.01.03:279][183]BlueprintLog: New page: Compile BP_Weapon_Component
+[2024.01.26-19.01.03:448][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.26-19.01.04:106][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.01.04:182][229]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-19.01.04:183][229]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_Component63200C6A467EDF21A5595DA3AD6B8898.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-19.01.04:193][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 11.6 sec)
+[2024.01.26-19.01.04:194][229]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-19.01.04:194][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-19.01.06:562][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.01.06:616][491]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.26-19.01.06:617][491]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Weapon_Component458E3F214533DA2612B2318F980242D7.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.26-19.01.06:626][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 11.6 sec)
+[2024.01.26-19.01.06:627][491]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.01.26-19.01.06:627][491]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.26-19.01.08:076][640]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.01.08:076][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.01.21:262][168]LogEditorTransaction: Undo Move Node
+[2024.01.26-19.01.31:979][294]LogEditorTransaction: Undo Rename Node
+[2024.01.26-19.01.33:063][368]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2024.01.26-19.02.22:553][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.02.22:676][406]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-19.02.22:677][406]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacterC4FBEDAF4D2E29436F6233A83902E373.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-19.02.22:686][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 11.8 sec)
+[2024.01.26-19.02.22:688][406]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-19.02.22:688][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-19.02.45:374][ 45]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.26-19.02.45:509][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.01.26-19.02.46:310][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.02.46:440][111]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-19.02.46:441][111]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacter0662709D46156B4D54FE84A01E78E578.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-19.02.46:450][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 11.9 sec)
+[2024.01.26-19.02.46:452][111]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-19.02.46:452][111]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-19.04.07:254][285]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.26-19.04.07:382][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.26-19.04.08:220][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.04.08:355][354]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-19.04.08:355][354]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacter9853BE2D4DF3A56F7C6050BA146E0754.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-19.04.08:364][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 12.0 sec)
+[2024.01.26-19.04.08:366][354]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-19.04.08:366][354]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-19.04.11:457][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.04.11:526][719]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.26-19.04.11:527][719]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_FirstPersonCharacter639BCBF749B61404FC37068FE989F802.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.26-19.04.11:535][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 12.1 sec)
+[2024.01.26-19.04.11:537][719]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.26-19.04.11:537][719]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.26-19.04.12:102][776]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.12:102][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.13:389][886]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.26-19.04.13:397][886]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.26-19.04.13:397][886]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.26-19.04.13:399][886]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 108 ms)
+[2024.01.26-19.04.13:399][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.26-19.04.13:399][886]PIE: New page: PIE session: FirstPersonMap (26 янв. 2024 г., 23:04:13)
+[2024.01.26-19.04.13:399][886]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.26-19.04.13:405][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006287s)
+[2024.01.26-19.04.13:405][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006327s)
+[2024.01.26-19.04.13:425][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.26-19.04.13:434][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.13:434][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.13:435][886]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.26-19.04.13:435][886]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-19.04.13:435][886]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-19.04.13:435][886]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-19.04.13:435][886]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-19.04.13:437][886]LogContentBundle: [FirstPersonMap(Dedicated Server)] Creating new contrainer.
+[2024.01.26-19.04.13:437][886]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 298 ms)
+[2024.01.26-19.04.13:437][886]LogPlayLevel: PIE: World Init took: (0.003021s)
+[2024.01.26-19.04.13:437][886]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.26-19.04.13:440][886]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-21.04.13
+[2024.01.26-19.04.13:442][886]LogOnline: OSS: Created online subsystem instance for: :Context_158
+[2024.01.26-19.04.13:443][886]LogWorld: Bringing up level for play took: 0.005357
+[2024.01.26-19.04.13:443][886]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.01.26-19.04.13:443][886]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.01.26-19.04.13:443][886]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.01.26-19.04.13:443][886]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.01.26-19.04.13:443][886]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.13:443][886]LogNet: GameNetDriver IpNetDriver_123 IpNetDriver listening on port 17777
+[2024.01.26-19.04.13:443][886]PIE: Server logged in
+[2024.01.26-19.04.13:443][886]PIE: Play in editor total start time 0,047 seconds.
+[2024.01.26-19.04.13:444][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.13:444][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.13:444][886]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2024.01.26-19.04.13:444][886]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2024.01.26-19.04.13:444][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-19.04.13:444][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-19.04.13:444][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-19.04.13:444][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-19.04.13:444][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.26-19.04.13:444][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-19.04.13:444][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.26-19.04.13:444][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-19.04.13:445][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-19.04.13:445][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-19.04.13:445][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-19.04.13:447][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-19.04.13:498][886]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2024.01.26-19.04.13:498][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-19.04.13:498][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-19.04.13:498][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-19.04.13:499][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2024.01.26-19.04.13:499][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2024.01.26-19.04.13:501][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2024.01.26-19.04.13:501][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2024.01.26-19.04.13:501][886]LogInit: FAudioDevice initialized with ID 84.
+[2024.01.26-19.04.13:501][886]LogAudio: Display: Audio Device (ID: 84) registered with world 'Untitled'.
+[2024.01.26-19.04.13:501][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2024.01.26-19.04.13:537][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.04.13:537][886]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.26-19.04.13:537][886]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.01.26-19.04.13:537][886]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.01.26-19.04.13:537][886]LogNet: IpConnection_164 setting maximum channels to: 32767
+[2024.01.26-19.04.13:537][886]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.13:538][886]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 6
+[2024.01.26-19.04.13:539][886]LogNet: Game client on port 17777, rate 100000
+[2024.01.26-19.04.13:542][886]PIE: Client logged in
+[2024.01.26-19.04.13:545][886]PIE: Play in editor total start time 0,148 seconds.
+[2024.01.26-19.04.13:545][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.13:545][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.13:546][886]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2024.01.26-19.04.13:546][886]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2024.01.26-19.04.13:546][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-19.04.13:546][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-19.04.13:546][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-19.04.13:546][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-19.04.13:546][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.26-19.04.13:546][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-19.04.13:546][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.26-19.04.13:546][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-19.04.13:547][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-19.04.13:547][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-19.04.13:547][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-19.04.13:549][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-19.04.13:599][886]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2024.01.26-19.04.13:599][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-19.04.13:599][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-19.04.13:599][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-19.04.13:601][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2024.01.26-19.04.13:601][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2024.01.26-19.04.13:603][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2024.01.26-19.04.13:603][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2024.01.26-19.04.13:603][886]LogInit: FAudioDevice initialized with ID 85.
+[2024.01.26-19.04.13:603][886]LogAudio: Display: Audio Device (ID: 85) registered with world 'Untitled'.
+[2024.01.26-19.04.13:603][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2024.01.26-19.04.13:635][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.04.13:635][886]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.26-19.04.13:635][886]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.01.26-19.04.13:636][886]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.01.26-19.04.13:636][886]LogNet: IpConnection_165 setting maximum channels to: 32767
+[2024.01.26-19.04.13:636][886]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.13:637][886]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 7
+[2024.01.26-19.04.13:637][886]LogNet: Game client on port 17777, rate 100000
+[2024.01.26-19.04.13:640][886]PIE: Client logged in
+[2024.01.26-19.04.13:643][886]PIE: Play in editor total start time 0,246 seconds.
+[2024.01.26-19.04.13:686][886]LogViewport: Scene viewport resized to 1914x480, mode Windowed.
+[2024.01.26-19.04.13:737][886]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.01.26-19.04.14:562][982]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52851
+[2024.01.26-19.04.14:562][982]LogHandshake: SendConnectChallenge. Timestamp: 1.180686, Cookie: 254239085251017068033198083121147253075043244244240108150077
+[2024.01.26-19.04.14:588][985]LogHandshake: Cached server SessionID: 0
+[2024.01.26-19.04.14:588][985]LogHandshake: SendChallengeResponse. Timestamp: 1.180686, Cookie: 254239085251017068033198083121147253075043244244240108150077
+[2024.01.26-19.04.14:596][986]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52851
+[2024.01.26-19.04.14:596][986]LogHandshake: SendChallengeAck. InCookie: 254239085251017068033198083121147253075043244244240108150077
+[2024.01.26-19.04.14:596][986]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52851
+[2024.01.26-19.04.14:596][986]LogNet: IpConnection_166 setting maximum channels to: 32767
+[2024.01.26-19.04.14:596][986]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.14:596][986]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 01/26/24 21:04:14, [UNetConnection] RemoteAddr: 127.0.0.1:52851, Name: IpConnection_166, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.14:596][986]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52851, Name: IpConnection_166, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.14:621][989]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_164, Driver: PendingNetDriver IpNetDriver_124, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.14:629][990]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.01.26-19.04.14:629][990]LogNet: Remote platform little endian=1
+[2024.01.26-19.04.14:629][990]LogNet: This platform little endian=1
+[2024.01.26-19.04.14:656][993]LogOnline: OSS: Created online subsystem instance for: :Context_159
+[2024.01.26-19.04.14:664][994]LogNet: Login request: ?Name=DESKTOP-LD7AU0J-1E9B3A0E4BB5AC3FC8F726898071E10F userId: NULL:DESKTOP-LD7AU0J-1E9B3A0E4BB5AC3FC8F726898071E10F platform: NULL
+[2024.01.26-19.04.14:664][994]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52852
+[2024.01.26-19.04.14:664][994]LogHandshake: SendConnectChallenge. Timestamp: 1.282719, Cookie: 058103130177032166063049252220176017196186126074194183042100
+[2024.01.26-19.04.14:690][997]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C)
+[2024.01.26-19.04.14:690][997]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2024.01.26-19.04.14:690][997]LogWorld: BeginTearingDown for /Temp/Untitled_83
+[2024.01.26-19.04.14:690][997]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.14:690][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.14:707][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-19.04.14:709][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.26-19.04.14:719][997]LogAudio: Display: Audio Device (ID: 84) registered with world 'FirstPersonMap'.
+[2024.01.26-19.04.14:719][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.14:719][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.14:720][997]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-19.04.14:720][997]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-19.04.14:720][997]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-19.04.14:720][997]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-19.04.14:721][997]LogContentBundle: [FirstPersonMap(Client 1)] Creating new contrainer.
+[2024.01.26-19.04.14:721][997]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 300 ms)
+[2024.01.26-19.04.14:722][997]LogPlayLevel: PIE: World Init took: (0.002785s)
+[2024.01.26-19.04.14:724][997]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-21.04.14
+[2024.01.26-19.04.14:724][997]LogWorld: Bringing up level for play took: 0.002125
+[2024.01.26-19.04.14:724][997]LogLoad: Took 0.034360 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.01.26-19.04.14:725][997]LogHandshake: Cached server SessionID: 0
+[2024.01.26-19.04.14:725][997]LogHandshake: SendChallengeResponse. Timestamp: 1.282719, Cookie: 058103130177032166063049252220176017196186126074194183042100
+[2024.01.26-19.04.14:752][998]LogNet: Client netspeed is 100000
+[2024.01.26-19.04.14:752][998]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-LD7AU0J-1E9B3A0E4BB5AC3FC8F726898071E10F?SplitscreenCount=1
+[2024.01.26-19.04.14:755][998]LogNet: Join succeeded: DESKTOP-LD7AU0J-1E9B
+[2024.01.26-19.04.14:755][998]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52852
+[2024.01.26-19.04.14:755][998]LogHandshake: SendChallengeAck. InCookie: 058103130177032166063049252220176017196186126074194183042100
+[2024.01.26-19.04.14:755][998]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52852
+[2024.01.26-19.04.14:755][998]LogNet: IpConnection_167 setting maximum channels to: 32767
+[2024.01.26-19.04.14:756][998]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.14:756][998]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 01/26/24 21:04:14, [UNetConnection] RemoteAddr: 127.0.0.1:52852, Name: IpConnection_167, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.14:756][998]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52852, Name: IpConnection_167, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.14:759][998]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_165, Driver: PendingNetDriver IpNetDriver_125, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.14:882][999]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.01.26-19.04.14:882][999]LogNet: Remote platform little endian=1
+[2024.01.26-19.04.14:883][999]LogNet: This platform little endian=1
+[2024.01.26-19.04.14:890][999]LogOnline: OSS: Created online subsystem instance for: :Context_160
+[2024.01.26-19.04.14:902][  0]LogNet: Login request: ?Name=DESKTOP-LD7AU0J-677E5B444B18CE30190AEB9F25E58126 userId: NULL:DESKTOP-LD7AU0J-677E5B444B18CE30190AEB9F25E58126 platform: NULL
+[2024.01.26-19.04.14:920][  1]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C)
+[2024.01.26-19.04.14:920][  1]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2024.01.26-19.04.14:920][  1]LogWorld: BeginTearingDown for /Temp/Untitled_84
+[2024.01.26-19.04.14:920][  1]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.14:920][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.14:936][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-19.04.14:939][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.26-19.04.14:947][  1]LogAudio: Display: Audio Device (ID: 85) registered with world 'FirstPersonMap'.
+[2024.01.26-19.04.14:948][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.14:948][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.14:948][  1]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-19.04.14:948][  1]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-19.04.14:949][  1]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-19.04.14:949][  1]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-19.04.14:950][  1]LogContentBundle: [FirstPersonMap(Client 2)] Creating new contrainer.
+[2024.01.26-19.04.14:950][  1]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 302 ms)
+[2024.01.26-19.04.14:950][  1]LogPlayLevel: PIE: World Init took: (0.002790s)
+[2024.01.26-19.04.14:952][  1]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_2_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-21.04.14
+[2024.01.26-19.04.14:953][  1]LogWorld: Bringing up level for play took: 0.002125
+[2024.01.26-19.04.14:953][  1]LogLoad: Took 0.032777 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.01.26-19.04.15:112][  2]LogNet: Client netspeed is 100000
+[2024.01.26-19.04.15:112][  2]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-LD7AU0J-677E5B444B18CE30190AEB9F25E58126?SplitscreenCount=1
+[2024.01.26-19.04.15:115][  2]LogNet: Join succeeded: DESKTOP-LD7AU0J-677E
+[2024.01.26-19.04.15:119][  2]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_FirstPersonCharacter_C_1. Function AddName will not be processed.
+[2024.01.26-19.04.15:190][  6]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_FirstPersonCharacter_C_1. Function AddName will not be processed.
+[2024.01.26-19.04.24:563][628]LogScript: Warning: Script Msg: The widget 'BP_CombatLog_C_0' already has a parent widget. It can't also be added to the viewport!
+[2024.01.26-19.04.24:563][628]LogScript: Warning: Script Msg called by: BP_Canvas_C /Engine/Transient.UnrealEdEngine_0:GameInstance_124.BP_Canvas_C_0
+[2024.01.26-19.04.24:563][628]LogBlueprintUserMessages: [BP_Canvas_C_0] Client 0: Hello
+[2024.01.26-19.04.24:565][628]LogScript: Warning: Script Msg: The widget 'BP_CombatLog_C_0' already has a parent widget. It can't also be added to the viewport!
+[2024.01.26-19.04.24:565][628]LogScript: Warning: Script Msg called by: BP_Canvas_C /Engine/Transient.UnrealEdEngine_0:GameInstance_125.BP_Canvas_C_0
+[2024.01.26-19.04.24:565][628]LogBlueprintUserMessages: [BP_Canvas_C_0] Client 0: Hello
+[2024.01.26-19.04.29:283][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.26-19.04.29:922][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.04.29:922][962]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_2_FirstPersonMap
+[2024.01.26-19.04.29:922][962]LogSlate: Window 'Unreal_Snowballs Preview [NetMode: Client 2] Fixed 29fps (64-bit/PC D3D SM6)' being destroyed
+[2024.01.26-19.04.29:927][962]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.29:928][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.29:928][962]LogContentBundle: [FirstPersonMap(Client 2)] Deleting container.
+[2024.01.26-19.04.29:929][962]LogNet: World NetDriver shutdown IpNetDriver_125 [GameNetDriver]
+[2024.01.26-19.04.29:929][962]LogNet: DestroyNamedNetDriver IpNetDriver_125 [GameNetDriver]
+[2024.01.26-19.04.29:929][962]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_165, Driver: GameNetDriver IpNetDriver_125, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-677E5B444B18CE30190AEB9F25E58126, Channels: 29, Time: 2024.01.26-19.04.29
+[2024.01.26-19.04.29:929][962]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_165, Driver: GameNetDriver IpNetDriver_125, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-677E5B444B18CE30190AEB9F25E58126
+[2024.01.26-19.04.29:929][962]LogExit: GameNetDriver IpNetDriver_125 shut down
+[2024.01.26-19.04.29:931][962]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap
+[2024.01.26-19.04.29:931][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.04.29:931][962]LogSlate: Window 'Unreal_Snowballs Preview [NetMode: Client 1] Fixed 29fps (64-bit/PC D3D SM6)' being destroyed
+[2024.01.26-19.04.29:936][962]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.29:937][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.29:937][962]LogContentBundle: [FirstPersonMap(Client 1)] Deleting container.
+[2024.01.26-19.04.29:937][962]LogNet: World NetDriver shutdown IpNetDriver_124 [GameNetDriver]
+[2024.01.26-19.04.29:937][962]LogNet: DestroyNamedNetDriver IpNetDriver_124 [GameNetDriver]
+[2024.01.26-19.04.29:938][962]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_164, Driver: GameNetDriver IpNetDriver_124, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-1E9B3A0E4BB5AC3FC8F726898071E10F, Channels: 29, Time: 2024.01.26-19.04.29
+[2024.01.26-19.04.29:938][962]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_164, Driver: GameNetDriver IpNetDriver_124, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-1E9B3A0E4BB5AC3FC8F726898071E10F
+[2024.01.26-19.04.29:938][962]LogExit: GameNetDriver IpNetDriver_124 shut down
+[2024.01.26-19.04.29:939][962]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.26-19.04.29:940][962]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.29:940][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.29:941][962]LogContentBundle: [FirstPersonMap(Dedicated Server)] Deleting container.
+[2024.01.26-19.04.29:941][962]LogNet: World NetDriver shutdown IpNetDriver_123 [GameNetDriver]
+[2024.01.26-19.04.29:941][962]LogNet: DestroyNamedNetDriver IpNetDriver_123 [GameNetDriver]
+[2024.01.26-19.04.29:941][962]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.04.29:941][962]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.01.26-19.04.29:941][962]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.04.29:941][962]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.01.26-19.04.29:941][962]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52852, Name: IpConnection_167, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-677E5B444B18CE30190AEB9F25E58126
+[2024.01.26-19.04.29:941][962]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52852, Name: IpConnection_167, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-677E5B444B18CE30190AEB9F25E58126, Channels: 29, Time: 2024.01.26-19.04.29
+[2024.01.26-19.04.29:941][962]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.04.29:941][962]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.01.26-19.04.29:941][962]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52852, Name: IpConnection_167, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-677E5B444B18CE30190AEB9F25E58126
+[2024.01.26-19.04.29:941][962]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52851, Name: IpConnection_166, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-1E9B3A0E4BB5AC3FC8F726898071E10F
+[2024.01.26-19.04.29:941][962]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52851, Name: IpConnection_166, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-1E9B3A0E4BB5AC3FC8F726898071E10F, Channels: 29, Time: 2024.01.26-19.04.29
+[2024.01.26-19.04.29:941][962]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.04.29:941][962]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.01.26-19.04.29:941][962]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52851, Name: IpConnection_166, Driver: GameNetDriver IpNetDriver_123, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-1E9B3A0E4BB5AC3FC8F726898071E10F
+[2024.01.26-19.04.29:941][962]LogExit: GameNetDriver IpNetDriver_123 shut down
+[2024.01.26-19.04.29:943][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.26-19.04.29:950][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.29:975][962]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2024.01.26-19.04.29:975][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2024.01.26-19.04.29:977][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2024.01.26-19.04.29:984][962]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2024.01.26-19.04.29:984][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2024.01.26-19.04.29:986][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2024.01.26-19.04.29:999][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.26-19.04.30:103][963]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2024.01.26-19.04.30:103][963]LogPlayLevel: Display: Destroying online subsystem :Context_159
+[2024.01.26-19.04.30:103][963]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2024.01.26-19.04.36:969][721]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/UI/BP_Canvas.BP_Canvas
+[2024.01.26-19.04.36:969][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.36:969][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.36:978][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.36:978][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.45:317][622]BlueprintLog: New page: Compile BP_Canvas
+[2024.01.26-19.04.45:364][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.26-19.04.46:417][700]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.26-19.04.46:425][700]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.26-19.04.46:425][700]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.26-19.04.46:427][700]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 111 ms)
+[2024.01.26-19.04.46:427][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.26-19.04.46:427][700]PIE: New page: PIE session: FirstPersonMap (26 янв. 2024 г., 23:04:46)
+[2024.01.26-19.04.46:427][700]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.26-19.04.46:433][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006204s)
+[2024.01.26-19.04.46:433][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006241s)
+[2024.01.26-19.04.46:452][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.26-19.04.46:457][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.46:457][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.46:457][700]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.26-19.04.46:458][700]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-19.04.46:458][700]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-19.04.46:458][700]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-19.04.46:458][700]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-19.04.46:460][700]LogContentBundle: [FirstPersonMap(Dedicated Server)] Creating new contrainer.
+[2024.01.26-19.04.46:460][700]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 303 ms)
+[2024.01.26-19.04.46:460][700]LogPlayLevel: PIE: World Init took: (0.002940s)
+[2024.01.26-19.04.46:460][700]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.26-19.04.46:463][700]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-21.04.46
+[2024.01.26-19.04.46:465][700]LogOnline: OSS: Created online subsystem instance for: :Context_163
+[2024.01.26-19.04.46:465][700]LogWorld: Bringing up level for play took: 0.005254
+[2024.01.26-19.04.46:466][700]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.01.26-19.04.46:466][700]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.01.26-19.04.46:466][700]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.01.26-19.04.46:466][700]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.01.26-19.04.46:466][700]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.46:466][700]LogNet: GameNetDriver IpNetDriver_126 IpNetDriver listening on port 17777
+[2024.01.26-19.04.46:466][700]PIE: Server logged in
+[2024.01.26-19.04.46:466][700]PIE: Play in editor total start time 0,041 seconds.
+[2024.01.26-19.04.46:466][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.46:466][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.46:467][700]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2024.01.26-19.04.46:467][700]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2024.01.26-19.04.46:467][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-19.04.46:467][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-19.04.46:467][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-19.04.46:467][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-19.04.46:467][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.26-19.04.46:467][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-19.04.46:467][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.26-19.04.46:467][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-19.04.46:468][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-19.04.46:468][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-19.04.46:468][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-19.04.46:469][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-19.04.46:520][700]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2024.01.26-19.04.46:520][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-19.04.46:520][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-19.04.46:520][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-19.04.46:522][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2024.01.26-19.04.46:522][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2024.01.26-19.04.46:523][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2024.01.26-19.04.46:523][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2024.01.26-19.04.46:523][700]LogInit: FAudioDevice initialized with ID 86.
+[2024.01.26-19.04.46:524][700]LogAudio: Display: Audio Device (ID: 86) registered with world 'Untitled'.
+[2024.01.26-19.04.46:524][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 86
+[2024.01.26-19.04.46:554][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.04.46:554][700]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.26-19.04.46:554][700]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.01.26-19.04.46:554][700]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.01.26-19.04.46:554][700]LogNet: IpConnection_168 setting maximum channels to: 32767
+[2024.01.26-19.04.46:555][700]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.46:556][700]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 0
+[2024.01.26-19.04.46:556][700]LogNet: Game client on port 17777, rate 100000
+[2024.01.26-19.04.46:558][700]PIE: Client logged in
+[2024.01.26-19.04.46:560][700]PIE: Play in editor total start time 0,135 seconds.
+[2024.01.26-19.04.46:561][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.46:561][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.46:562][700]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2024.01.26-19.04.46:562][700]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2024.01.26-19.04.46:562][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-19.04.46:562][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-19.04.46:562][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-19.04.46:562][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-19.04.46:562][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.26-19.04.46:562][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-19.04.46:562][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.26-19.04.46:562][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-19.04.46:562][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-19.04.46:562][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-19.04.46:562][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-19.04.46:564][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-19.04.46:614][700]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2024.01.26-19.04.46:615][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-19.04.46:615][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-19.04.46:615][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-19.04.46:616][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2024.01.26-19.04.46:616][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2024.01.26-19.04.46:618][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2024.01.26-19.04.46:618][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2024.01.26-19.04.46:618][700]LogInit: FAudioDevice initialized with ID 87.
+[2024.01.26-19.04.46:618][700]LogAudio: Display: Audio Device (ID: 87) registered with world 'Untitled'.
+[2024.01.26-19.04.46:618][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 87
+[2024.01.26-19.04.46:652][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.04.46:652][700]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.26-19.04.46:653][700]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.01.26-19.04.46:653][700]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.01.26-19.04.46:653][700]LogNet: IpConnection_169 setting maximum channels to: 32767
+[2024.01.26-19.04.46:653][700]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.46:654][700]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 1
+[2024.01.26-19.04.46:654][700]LogNet: Game client on port 17777, rate 100000
+[2024.01.26-19.04.46:657][700]PIE: Client logged in
+[2024.01.26-19.04.46:659][700]PIE: Play in editor total start time 0,234 seconds.
+[2024.01.26-19.04.46:689][700]LogViewport: Scene viewport resized to 1914x480, mode Windowed.
+[2024.01.26-19.04.46:764][700]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.01.26-19.04.47:587][795]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52854
+[2024.01.26-19.04.47:587][795]LogHandshake: SendConnectChallenge. Timestamp: 1.176638, Cookie: 093246163122195229082216093249122088026019184236030062067181
+[2024.01.26-19.04.47:612][798]LogHandshake: Cached server SessionID: 0
+[2024.01.26-19.04.47:612][798]LogHandshake: SendChallengeResponse. Timestamp: 1.176638, Cookie: 093246163122195229082216093249122088026019184236030062067181
+[2024.01.26-19.04.47:620][799]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52854
+[2024.01.26-19.04.47:620][799]LogHandshake: SendChallengeAck. InCookie: 093246163122195229082216093249122088026019184236030062067181
+[2024.01.26-19.04.47:620][799]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52854
+[2024.01.26-19.04.47:620][799]LogNet: IpConnection_170 setting maximum channels to: 32767
+[2024.01.26-19.04.47:620][799]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.47:620][799]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 01/26/24 21:04:47, [UNetConnection] RemoteAddr: 127.0.0.1:52854, Name: IpConnection_170, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.47:620][799]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52854, Name: IpConnection_170, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.47:645][802]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_168, Driver: PendingNetDriver IpNetDriver_127, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.47:653][803]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.01.26-19.04.47:653][803]LogNet: Remote platform little endian=1
+[2024.01.26-19.04.47:653][803]LogNet: This platform little endian=1
+[2024.01.26-19.04.47:680][806]LogOnline: OSS: Created online subsystem instance for: :Context_164
+[2024.01.26-19.04.47:688][807]LogNet: Login request: ?Name=DESKTOP-LD7AU0J-365E265C4333F04F34501FB93A142E75 userId: NULL:DESKTOP-LD7AU0J-365E265C4333F04F34501FB93A142E75 platform: NULL
+[2024.01.26-19.04.47:688][807]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52855
+[2024.01.26-19.04.47:688][807]LogHandshake: SendConnectChallenge. Timestamp: 1.277913, Cookie: 115213092195007010012112224042246079081244069131255153095066
+[2024.01.26-19.04.47:713][810]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C)
+[2024.01.26-19.04.47:713][810]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2024.01.26-19.04.47:713][810]LogWorld: BeginTearingDown for /Temp/Untitled_85
+[2024.01.26-19.04.47:714][810]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.47:714][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.47:730][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-19.04.47:732][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.26-19.04.47:742][810]LogAudio: Display: Audio Device (ID: 86) registered with world 'FirstPersonMap'.
+[2024.01.26-19.04.47:742][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.47:742][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.47:743][810]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-19.04.47:743][810]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-19.04.47:743][810]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-19.04.47:743][810]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-19.04.47:745][810]LogContentBundle: [FirstPersonMap(Client 1)] Creating new contrainer.
+[2024.01.26-19.04.47:745][810]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 305 ms)
+[2024.01.26-19.04.47:745][810]LogPlayLevel: PIE: World Init took: (0.002857s)
+[2024.01.26-19.04.47:747][810]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-21.04.47
+[2024.01.26-19.04.47:747][810]LogWorld: Bringing up level for play took: 0.002130
+[2024.01.26-19.04.47:747][810]LogLoad: Took 0.033936 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.01.26-19.04.47:748][810]LogHandshake: Cached server SessionID: 0
+[2024.01.26-19.04.47:748][810]LogHandshake: SendChallengeResponse. Timestamp: 1.277913, Cookie: 115213092195007010012112224042246079081244069131255153095066
+[2024.01.26-19.04.47:775][811]LogNet: Client netspeed is 100000
+[2024.01.26-19.04.47:775][811]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-LD7AU0J-365E265C4333F04F34501FB93A142E75?SplitscreenCount=1
+[2024.01.26-19.04.47:779][811]LogNet: Join succeeded: DESKTOP-LD7AU0J-365E
+[2024.01.26-19.04.47:779][811]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52855
+[2024.01.26-19.04.47:779][811]LogHandshake: SendChallengeAck. InCookie: 115213092195007010012112224042246079081244069131255153095066
+[2024.01.26-19.04.47:779][811]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52855
+[2024.01.26-19.04.47:779][811]LogNet: IpConnection_171 setting maximum channels to: 32767
+[2024.01.26-19.04.47:779][811]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.01.26-19.04.47:779][811]LogNet: NotifyAcceptedConnection: Name: FirstPersonMap, TimeStamp: 01/26/24 21:04:47, [UNetConnection] RemoteAddr: 127.0.0.1:52855, Name: IpConnection_171, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.47:779][811]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52855, Name: IpConnection_171, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.47:784][811]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_169, Driver: PendingNetDriver IpNetDriver_128, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.01.26-19.04.47:870][812]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap: Accepted
+[2024.01.26-19.04.47:870][812]LogNet: Remote platform little endian=1
+[2024.01.26-19.04.47:870][812]LogNet: This platform little endian=1
+[2024.01.26-19.04.47:877][812]LogOnline: OSS: Created online subsystem instance for: :Context_165
+[2024.01.26-19.04.47:895][813]LogNet: Login request: ?Name=DESKTOP-LD7AU0J-FC7709444E51A425119BB2BFDD40E759 userId: NULL:DESKTOP-LD7AU0J-FC7709444E51A425119BB2BFDD40E759 platform: NULL
+[2024.01.26-19.04.47:900][813]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap, Game: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C)
+[2024.01.26-19.04.47:900][813]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap?game=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2024.01.26-19.04.47:900][813]LogWorld: BeginTearingDown for /Temp/Untitled_86
+[2024.01.26-19.04.47:901][813]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.47:901][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.47:919][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-19.04.47:921][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.26-19.04.47:930][813]LogAudio: Display: Audio Device (ID: 87) registered with world 'FirstPersonMap'.
+[2024.01.26-19.04.47:930][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.47:930][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.04.47:931][813]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-19.04.47:931][813]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-19.04.47:931][813]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-19.04.47:931][813]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-19.04.47:933][813]LogContentBundle: [FirstPersonMap(Client 2)] Creating new contrainer.
+[2024.01.26-19.04.47:933][813]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 307 ms)
+[2024.01.26-19.04.47:933][813]LogPlayLevel: PIE: World Init took: (0.002800s)
+[2024.01.26-19.04.47:935][813]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_2_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.26-21.04.47
+[2024.01.26-19.04.47:935][813]LogWorld: Bringing up level for play took: 0.002139
+[2024.01.26-19.04.47:935][813]LogLoad: Took 0.035021 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.01.26-19.04.47:988][814]LogNet: Client netspeed is 100000
+[2024.01.26-19.04.47:988][814]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=DESKTOP-LD7AU0J-FC7709444E51A425119BB2BFDD40E759?SplitscreenCount=1
+[2024.01.26-19.04.47:991][814]LogNet: Join succeeded: DESKTOP-LD7AU0J-FC77
+[2024.01.26-19.04.47:995][814]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_FirstPersonCharacter_C_1. Function AddName will not be processed.
+[2024.01.26-19.04.48:092][817]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_FirstPersonCharacter_C_1. Function AddName will not be processed.
+[2024.01.26-19.04.51:156][ 27]LogScript: Warning: Script Msg: The widget 'BP_CombatLog_C_0' already has a parent widget. It can't also be added to the viewport!
+[2024.01.26-19.04.51:156][ 27]LogScript: Warning: Script Msg called by: BP_Canvas_C /Engine/Transient.UnrealEdEngine_0:GameInstance_127.BP_Canvas_C_0
+[2024.01.26-19.04.51:156][ 27]LogBlueprintUserMessages: [BP_Canvas_C_0] Client 0: Hello
+[2024.01.26-19.04.51:158][ 27]LogScript: Warning: Script Msg: The widget 'BP_CombatLog_C_0' already has a parent widget. It can't also be added to the viewport!
+[2024.01.26-19.04.51:158][ 27]LogScript: Warning: Script Msg called by: BP_Canvas_C /Engine/Transient.UnrealEdEngine_0:GameInstance_128.BP_Canvas_C_0
+[2024.01.26-19.04.51:158][ 27]LogBlueprintUserMessages: [BP_Canvas_C_0] Client 0: Hello
+[2024.01.26-19.04.55:629][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.26-19.04.57:472][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.04.57:472][428]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_2_FirstPersonMap
+[2024.01.26-19.04.57:472][428]LogSlate: Window 'Unreal_Snowballs Preview [NetMode: Client 2] Fixed 29fps (64-bit/PC D3D SM6)' being destroyed
+[2024.01.26-19.04.57:477][428]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.57:477][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.57:477][428]LogContentBundle: [FirstPersonMap(Client 2)] Deleting container.
+[2024.01.26-19.04.57:478][428]LogNet: World NetDriver shutdown IpNetDriver_128 [GameNetDriver]
+[2024.01.26-19.04.57:478][428]LogNet: DestroyNamedNetDriver IpNetDriver_128 [GameNetDriver]
+[2024.01.26-19.04.57:478][428]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_169, Driver: GameNetDriver IpNetDriver_128, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-FC7709444E51A425119BB2BFDD40E759, Channels: 29, Time: 2024.01.26-19.04.57
+[2024.01.26-19.04.57:478][428]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_169, Driver: GameNetDriver IpNetDriver_128, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-FC7709444E51A425119BB2BFDD40E759
+[2024.01.26-19.04.57:478][428]LogExit: GameNetDriver IpNetDriver_128 shut down
+[2024.01.26-19.04.57:480][428]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap
+[2024.01.26-19.04.57:480][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.04.57:480][428]LogSlate: Window 'Unreal_Snowballs Preview [NetMode: Client 1] Fixed 29fps (64-bit/PC D3D SM6)' being destroyed
+[2024.01.26-19.04.57:485][428]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.57:486][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.57:486][428]LogContentBundle: [FirstPersonMap(Client 1)] Deleting container.
+[2024.01.26-19.04.57:487][428]LogNet: World NetDriver shutdown IpNetDriver_127 [GameNetDriver]
+[2024.01.26-19.04.57:487][428]LogNet: DestroyNamedNetDriver IpNetDriver_127 [GameNetDriver]
+[2024.01.26-19.04.57:487][428]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_168, Driver: GameNetDriver IpNetDriver_127, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-365E265C4333F04F34501FB93A142E75, Channels: 29, Time: 2024.01.26-19.04.57
+[2024.01.26-19.04.57:487][428]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_168, Driver: GameNetDriver IpNetDriver_127, IsServer: NO, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-365E265C4333F04F34501FB93A142E75
+[2024.01.26-19.04.57:487][428]LogExit: GameNetDriver IpNetDriver_127 shut down
+[2024.01.26-19.04.57:489][428]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.26-19.04.57:489][428]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.04.57:490][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.57:490][428]LogContentBundle: [FirstPersonMap(Dedicated Server)] Deleting container.
+[2024.01.26-19.04.57:490][428]LogNet: World NetDriver shutdown IpNetDriver_126 [GameNetDriver]
+[2024.01.26-19.04.57:490][428]LogNet: DestroyNamedNetDriver IpNetDriver_126 [GameNetDriver]
+[2024.01.26-19.04.57:490][428]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.04.57:490][428]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.01.26-19.04.57:490][428]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.04.57:490][428]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.01.26-19.04.57:490][428]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52855, Name: IpConnection_171, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-FC7709444E51A425119BB2BFDD40E759
+[2024.01.26-19.04.57:490][428]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52855, Name: IpConnection_171, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-FC7709444E51A425119BB2BFDD40E759, Channels: 29, Time: 2024.01.26-19.04.57
+[2024.01.26-19.04.57:490][428]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.04.57:490][428]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.01.26-19.04.57:490][428]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52855, Name: IpConnection_171, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: BP_FirstPersonPlayerController_C_1, Owner: BP_FirstPersonPlayerController_C_1, UniqueId: NULL:DESKTOP-LD7AU0J-FC7709444E51A425119BB2BFDD40E759
+[2024.01.26-19.04.57:490][428]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52854, Name: IpConnection_170, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-365E265C4333F04F34501FB93A142E75
+[2024.01.26-19.04.57:490][428]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52854, Name: IpConnection_170, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-365E265C4333F04F34501FB93A142E75, Channels: 29, Time: 2024.01.26-19.04.57
+[2024.01.26-19.04.57:490][428]LogNet: UNetConnection::SendCloseReason:
+[2024.01.26-19.04.57:490][428]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.01.26-19.04.57:490][428]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52854, Name: IpConnection_170, Driver: GameNetDriver IpNetDriver_126, IsServer: YES, PC: BP_FirstPersonPlayerController_C_0, Owner: BP_FirstPersonPlayerController_C_0, UniqueId: NULL:DESKTOP-LD7AU0J-365E265C4333F04F34501FB93A142E75
+[2024.01.26-19.04.57:491][428]LogExit: GameNetDriver IpNetDriver_126 shut down
+[2024.01.26-19.04.57:492][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.26-19.04.57:500][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.04.57:523][428]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2024.01.26-19.04.57:523][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2024.01.26-19.04.57:525][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2024.01.26-19.04.57:532][428]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 86
+[2024.01.26-19.04.57:532][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2024.01.26-19.04.57:534][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2024.01.26-19.04.57:547][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.26-19.04.57:636][429]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2024.01.26-19.04.57:636][429]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2024.01.26-19.04.57:636][429]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2024.01.26-19.05.06:036][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.05.06:076][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/UI/BP_Canvas" FILE="../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/UI/BP_Canvas.uasset" SILENT=true
+[2024.01.26-19.05.06:085][348]LogSavePackage: Moving output files for package: /Game/FirstPerson/UI/BP_Canvas
+[2024.01.26-19.05.06:085][348]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Canvas2414E26749A04BB6FA3838A2E78773D6.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/UI/BP_Canvas.uasset'
+[2024.01.26-19.05.06:094][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 12.2 sec)
+[2024.01.26-19.05.06:095][348]AssetCheck: New page: Asset Save: BP_Canvas
+[2024.01.26-19.05.06:095][348]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/UI/BP_Canvas.BP_Canvas
+[2024.01.26-19.05.07:220][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.05.07:256][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/UI/BP_Canvas" FILE="../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/UI/BP_Canvas.uasset" SILENT=true
+[2024.01.26-19.05.07:266][482]LogSavePackage: Moving output files for package: /Game/FirstPerson/UI/BP_Canvas
+[2024.01.26-19.05.07:266][482]LogSavePackage: Moving '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Saved/BP_Canvas0225D6664F50C0A9BEA8A19240A88D5E.tmp' to '../../../../../../Projects/Unreal/Unreal_Snowballs/Unreal_Snowballs/Content/FirstPerson/UI/BP_Canvas.uasset'
+[2024.01.26-19.05.07:274][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 12.2 sec)
+[2024.01.26-19.05.07:275][482]AssetCheck: New page: Asset Save: BP_Canvas
+[2024.01.26-19.05.07:275][482]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/UI/BP_Canvas.BP_Canvas
